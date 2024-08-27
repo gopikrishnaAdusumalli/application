@@ -1,0 +1,85 @@
+
+.students-bg-container {
+    background-color: aqua;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.students-container {
+    height: 500px;
+    width: 800px;
+    background-color: #ffffff;
+
+}
+
+.students-heading {
+    color: black;
+    font-size: 22px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    margin-left: 10px;
+
+
+}
+
+.add-button {
+    background-color:black;
+    color: #ffffff;
+    font-size: 22px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    height: 27px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.table {
+    background-color: black;
+    width: 600px;
+    margin-top: 20px;
+
+    
+
+
+
+
+}
+.table-row {
+    width: 100px;
+    background-color: #ffffff;
+
+}
+.tbody-row {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.update-button {
+    background-color: skyblue;
+    color: #ffffff;
+    font-size: 21px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+.delete-button {
+    background-color: red;
+    color: #ffffff;
+    font-size: 21px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    margin-left: 10px;
+
+
+
+}

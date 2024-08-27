@@ -1,0 +1,92 @@
+
+.create-bg-container {
+    background-color: aqua;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.create-container {
+    background-color: aliceblue;
+    height: 300px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+.create-heading {
+    color: black;
+    font-size: 22px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+.user-name-label {
+    color: black;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-style: normal;
+    font-size: 14px;
+
+}
+
+.user-name {
+    height: 27px;
+    background-color: #ffffff;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    width: 300px;
+
+}
+
+.user-name-label {
+    color: black;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-style: normal;
+    font-size: 14px;
+
+
+}
+
+.user-name {
+    height: 27px;
+    background-color: #ffffff;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    width: 350px;
+
+}
+
+.user-name-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+.submit-button {
+    background-color: aquamarine;
+    height: 29px;
+    width: 100px;
+    font-size: 21px;
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    margin-left: 150px;
+    margin-top: 10px;
+
+
+
+
+}
